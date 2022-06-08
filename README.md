@@ -6,3 +6,5 @@ I am a Creative Full-Stack Web Developer and an Informatics Engineering Student,
 ### [LinkedIn](https://www.linkedin.com/in/alex-sirait-6b696b221/) 💖
 ***or***
 ### [My Website](https://alexsiraitnotes.vercel.app/) 😎
+<br/>
+<hr/>
