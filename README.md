@@ -1,4 +1,4 @@
-# Alex Sirait ganteng
+# Alex Sirait
 
 I am a Creative Full-Stack Web Developer and an Informatics Engineering Student, who loves building things, solve problems and learn new things. 🚀
 
